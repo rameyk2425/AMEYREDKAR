@@ -82,7 +82,7 @@ public class testClass {
 		driver.findElement(By.xpath("//*[@id=\"alias\"]")).sendKeys("Ajay");
 
 		driver.findElement(By.xpath("//*[@id=\"submitAccount\"]/span")).click();
-//		driver.findElement(By.xpath("")).click();
+		driver.findElement(By.xpath("")).click();
 //		driver.findElement(By.xpath("")).click();
 //		driver.findElement(By.xpath("")).click();
 //		driver.findElement(By.xpath("")).click();
